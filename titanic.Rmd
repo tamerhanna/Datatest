@@ -389,5 +389,10 @@ write.csv(solution, file = 'rf_mod_Solution.csv', row.names = F)
 # Conclusion
 
 Thank you for taking the time to read through my first exploration of a Kaggle dataset. I look forward to doing more. Again, this newbie welcomes comments and suggestions!
+# testing
+
+#this is to test git hub
+
+# dont know
 
 ---
